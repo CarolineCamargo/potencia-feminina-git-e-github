@@ -9,5 +9,5 @@ Nesta aula estamos aprednendo comando bem legais e úteis.
 ## Comando "git add ."
     Adiciona todos arquivos na esteira do commit
 
-## Comando "git add (caminho do arquvio)"
+## Comando "git add (caminho do arquivo)"
     Adiciona um arquivo específico na esteira do commit
