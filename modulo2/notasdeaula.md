@@ -1,6 +1,6 @@
 ## Notas de aula referentes ao módulo 2 do curso de git e github da potência feminina
 
-Nesta aula estamos aprednendo comando bem legais e úteis.
+Nesta aula estamos aprendendo comandos bem legais e úteis.
 
 
 ## Comando "git status"
@@ -11,3 +11,6 @@ Nesta aula estamos aprednendo comando bem legais e úteis.
 
 ## Comando "git add (caminho do arquivo)"
     Adiciona um arquivo específico na esteira do commit
+
+## Comando "git commit -m"
+    Comita os arquivos adicionados na esteira
